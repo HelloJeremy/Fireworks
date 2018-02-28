@@ -19,7 +19,7 @@
 
 #### 通过个人的https://你的github用户名.github.io/项目名/访问
 我的Fireworks项目访问路径：https://hellojeremy.github.io/Fireworks/
-#### 配置个人域名指向这个静态页面
+#### 配置个人域名指向Fireworks静态页面
 1、ping你的http://你的github用户名.github.io，得到一个IP；
 
 2、修改你的域名解析记录，添加一个A记录，用得到的IP；
@@ -27,7 +27,7 @@
 3、登录http://github.com>进入项目>Settings>Custom domain>输入你的域名>Save。
 ![绑定域名](https://github.com/HelloJeremy/Fireworks/blob/master/pic/setting_domain.png?raw=true)
 
-现在可以通过网址：http://ecutgis.online/在线预览我的Fireworks项目
+现在可以通过网址：http://ecutgis.online/ 在线预览我的Fireworks项目
 
 
 
