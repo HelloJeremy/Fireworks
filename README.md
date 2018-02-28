@@ -27,10 +27,11 @@
 3、登录http://github.com>进入项目>Settings>Custom domain>输入你的域名>Save。
 ![绑定域名](https://github.com/HelloJeremy/Fireworks/blob/master/pic/setting_domain.png?raw=true)
 
-现在可以通过网址：ecutgis.online在线预览我的Fireworks项目
+现在可以通过网址：http://ecutgis.online/在线预览我的Fireworks项目
 
 
 
 #### 参考链接
 [github怎么绑定自己的域名？](https://www.zhihu.com/question/31377141)
+
 [用github来展示你的前端页面吧](https://www.jianshu.com/p/d1ae8f6bdcb8)
